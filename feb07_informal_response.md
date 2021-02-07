@@ -18,6 +18,7 @@ The loss function calculate how good the estimate is, and the optimizer tweaks t
 2. The length of the labels of the training set is 60000.
 3. The shape of the images test set is 10000.
 
-This is a random test image. The predicted label with highest probability is 7
-![Why is it so hard just to insert an image](informal_response07_pic1.png）
+This is a random test image. The predicted label with highest probability is 7.
+
+![why](informal_response07_pic1.png)
 ![caption](informal_response07_pic2.png)
