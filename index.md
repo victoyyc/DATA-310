@@ -4,3 +4,5 @@
  [Feb.07 Informal Response](/DATA-310/feb07_informal_response)
 
 ## Projects
+
+[Mini Project 1](DATA-310/mini_project_1.md)
