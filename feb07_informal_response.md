@@ -17,6 +17,12 @@ The loss function calculate how good the estimate is, and the optimizer tweaks t
 1. There are 60000 two-dimensional data in the shape of [28,28] in the training set.
 2. The length of the labels of the training set is 60000.
 3. The shape of the images test set is 10000.
+4. The prediction array for the a random image is: array([0.08533675, 0.08533675, 0.08533675, 0.08533675, 0.08533677,
+       0.08533675, 0.08533675, 0.08533675, 0.08533675, 0.2319693 ])
+       
+#### Question E
+The predicted label with highest probability is 9.
 
-The following is the image of a test data. The predicted label with highest probability is 9, and the prediction matches the actual label. 
+#### Question F
+The following is the image of a test data. The prediction matches the actual label. 
 ![why](mnist_plot.png)
