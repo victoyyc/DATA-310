@@ -1,5 +1,7 @@
-## Yuanyuan Chang
-### Updated: Predict house price with three variables
+
+# Feb05 Informal Response Update
+### Victoria Yuanyuan Chang
+#### Updated: Predict house price with three variables
 
 The following are the actual vs. predicted predicted price using the number of bedrooms, sqaure footage, and number of bathrooms.
 
