@@ -1,6 +1,7 @@
-[Output 1](https://www.youtube.com/watch?v=5ADnyHWZ00s)
+# Mini Project #1
+### Victoria Yuanyuan Chang
 
-[Output 2](https://www.youtube.com/watch?v=UzeeedOY124)
+[Output 1](https://www.youtube.com/watch?v=5ADnyHWZ00s) | [Output 2](https://www.youtube.com/watch?v=UzeeedOY124)
 
 #### 1. Was your social distance detector effective at detecting potential violations?
 THe detector was effective when people in the video are the same horizontal level, but no so mcuh when the frame contains people in various distance to the camera. 
