@@ -1,6 +1,6 @@
 
 # Feb05 Informal Response
-## Victoria Yuanyuan Chang
+### Victoria Yuanyuan Chang
 
 #### Question #1
 Machine Learning is to feed data and labels to the data to a machine and let it figure out the rules between the data and the labels. The difference between 
