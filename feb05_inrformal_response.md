@@ -1,5 +1,5 @@
 
-# Feb05 Informal Response
+# Feb. 05 Informal Response
 ### Victoria Yuanyuan Chang
 
 #### Question #1
