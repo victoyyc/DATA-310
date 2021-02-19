@@ -22,4 +22,4 @@ The following is the image with the filter that accentuate vertical line after p
 ![](pool.png)
 
 Pooling reduces irrelevant information in the image so that the relevant features can be further emphasized.
-This pooling filter takes the four neighbors of each pixel, find the largest pixel and extract that pixel into the output image. The method results in reduced size.
+This pooling filter takes iterates over all the pixels, taking every other one, and find the largest pixel among itself and its three neighbors. It creates a new array that is half the size of the input image, and extract that largest pixel into the output array. The method results in reduced size.
