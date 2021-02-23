@@ -1,4 +1,4 @@
-# Feb.07 Informal Response 
+# Feb.17 Informal Response 
 ### Victoria Yuanyuan Chang
 
 #### A. Convolutions
