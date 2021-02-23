@@ -5,7 +5,10 @@
  
  [Feb.07 Informal Response](/DATA-310/feb07_informal_response)
  
-  [Feb.17 Informal Response](/DATA-310/feb17_informal_response)
+ [Feb.17 Informal Response](/DATA-310/feb17_informal_response)
+ 
+ [Feb.17 Updated](/DATA-310/feb17_updated)
+
 
 
 ## Projects
