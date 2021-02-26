@@ -1,7 +1,7 @@
 # Matrix Convolution
 ### Victoria Yuanyuan Chang
 
-Convolve the two 3x3 matrices that were assigned to you with your 9x9 matrix and calculate the resulting two matrices.
+1. Convolve the two 3x3 matrices that were assigned to you with your 9x9 matrix and calculate the resulting two matrices.
 
 The 9x9 matrix is: ![](9by9.PNG)
 The first 3x3 matrix is: [ [1, 1, 0], [0, 0, 1], [0, 1, 1] ]
@@ -28,3 +28,6 @@ The resulting matrix is:
    [2,-2,-1,1,4,3,1]]
 ```
  ![](matrix.jpg)
+ 
+2. What is the purpose of using a 3x3 filter to convolve across a 2D image matrix?
+3. Why would we include more than one filter? How many filters did you assign as part of your architecture when training a model to learn images of numbers from the mnist dataset?
