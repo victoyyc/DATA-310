@@ -8,6 +8,8 @@
  [Feb.17 Informal Response](/DATA-310/feb17_informal_response)
  
  [Feb.17 Updated](/DATA-310/feb17_updated)
+ 
+ [Matrix Convolution](/DATA-310/matrix)
 
 
 
