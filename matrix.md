@@ -30,4 +30,8 @@ The resulting matrix is:
  ![](matrix.jpg)
  
 2. What is the purpose of using a 3x3 filter to convolve across a 2D image matrix?
+
+    It helps extracting the features of the image so that it could be labelled or processed faster.
 3. Why would we include more than one filter? How many filters did you assign as part of your architecture when training a model to learn images of numbers from the mnist dataset?
+
+    We may use one filter to extract features and another to pool the image so the resolution is reduced. Or we may use multiple filters to emphaisze different features of the image. I believe we used three filters in the training model, one for each layer of neuro-network. 
