@@ -8,6 +8,18 @@ Write a one and a half to two page report on your results and include the follow
 
 A description of the housing data you scraped from zillow
 
+|measure  |  prices | no_beds   |    no_baths    |     sqft |
+|------|----------|-------------|-----------|--------|
+|count | 405    |    405 | 405 | 405 |
+|mean |  788,748.50    |      3.11  |  2.54 | 1902.65 |
+|std  |  2020,120.00|   1.06 |   1.19  | 1210.58 |
+|min  |  17,500.00    |     1.00  |  1.00 | 312.00 |
+|25%  |  215,000.00    |     2.00  |  2.00 | 1200.00|
+|50%  |   305,000.00  |       3.00 |  2.00 | 2277.00 |
+|75%  |   499,900.00   |      4.00  |  3.00 | 9672.00 |
+|max  | 1875,000.00 | 7.00| 9.00| 9672.00
+
+
 A description of your model architecture
 
 An analysis of your model output
