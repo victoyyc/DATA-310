@@ -1,0 +1,406 @@
+,prices,address,no_beds,baths,sqft,prediction,difference,deal
+40,320000.0," 3849 W 81st Pl, Chicago, IL 60652 ",6.0,7.0,8.0,5775887.5,-5455887.5,good deal
+229,229000.0," 1616 S Kedvale Ave, Chicago, IL 60623 ",6.0,5.0,3.7,3742092.5,-3513092.5,good deal
+190,230000.0," 8 W Monroe St APT 1100, Chicago, IL 60603 ",6.0,5.0,3.7,3742092.5,-3512092.5,good deal
+389,250000.0," 7730 N Eastlake Ter APT 1, Chicago, IL 60626 ",6.0,5.0,3.7,3742092.5,-3492092.5,good deal
+150,320000.0," 3133 W Palmer Blvd APT 3, Chicago, IL 60647 ",6.0,5.0,3.7,3742092.5,-3422092.5,good deal
+309,484900.0," 606 W 48th Pl, Chicago, IL 60609 ",6.0,5.0,3.7,3742092.5,-3257192.5,good deal
+349,650000.0," 4912 S Michigan Ave, Chicago, IL 60615 ",6.0,5.0,3.7,3742092.5,-3092092.5,good deal
+53,184000.0," 3201 W Leland Ave APT 207, Chicago, IL 60625 ",4.0,5.0,4.1,3199798.0,-3015798.0,good deal
+56,300000.0," 6704 W 63rd Pl, Chicago, IL 60638 ",4.0,5.0,4.0,3172678.0,-2872678.0,good deal
+269,879000.0," 2828 W Lyndale St, Chicago, IL 60647 ",6.0,5.0,3.7,3742092.5,-2863092.5,good deal
+77,75000.0," 8134 S Essex Ave APT 2-S, Chicago, IL 60617 ",4.0,4.0,4.5,2874464.0,-2799464.0,good deal
+110,950000.0," 4730 S Greenwood Ave, Chicago, IL 60615 ",6.0,5.0,3.7,3742092.5,-2792092.5,good deal
+13,615000.0," 3811 S Hermitage Ave, Chicago, IL 60609 ",4.0,5.0,4.1,3199798.0,-2584798.0,good deal
+519,399000.0," 4950 S Chicago Beach Dr UNIT 3A, Chicago, IL 60615 ",4.0,4.0,4.0,2738863.5,-2339863.5,good deal
+482,787000.0," 4733 N Winthrop Ave, Chicago, IL 60640 ",5.0,4.0,3.7,2982890.5,-2195890.5,good deal
+511,909000.0," 2046 N Bingham St, Chicago, IL 60647 ",4.0,5.0,3.5,3037077.0,-2128077.0,good deal
+37,750000.0," 4200 S Ellis Ave, Chicago, IL 60653 ",4.0,4.0,4.5,2874464.0,-2124464.0,good deal
+525,660000.0," 1717 N Kimball Ave, Chicago, IL 60647 ",4.0,4.0,3.868,2703065.0,-2043065.0,good deal
+164,140000.0," 6166 N Sheridan Rd APT 4E, Chicago, IL 60660 ",4.0,3.0,3.445,2154531.5,-2014531.5,good deal
+60,259000.0," 1019 W Ainslie St #3, Chicago, IL 60640 ",4.0,3.0,3.78,2245384.0,-1986384.0,good deal
+20,260000.0," 5120 S Springfield Ave, Chicago, IL 60632 ",4.0,3.0,3.78,2245384.0,-1985384.0,good deal
+27,159900.0," 8242 S Honore St, Chicago, IL 60620 ",4.0,3.0,3.4,2142327.5,-1982427.5,good deal
+451,950000.0," 4122 N Kenneth Ave, Chicago, IL 60641 ",5.0,4.0,3.41,2904242.0,-1954242.0,good deal
+28,219000.0," 6804 S Wabash Ave, Chicago, IL 60637 ",4.0,4.0,1.9,2169341.0,-1950341.0,good deal
+303,155000.0," 3700 W 86th St, Chicago, IL 60652 ",4.0,4.0,1.655,2102896.5,-1947896.5,good deal
+343,170000.0," 9047 S Marshfield Ave, Chicago, IL 60620 ",4.0,4.0,1.655,2102896.5,-1932896.5,good deal
+76,249000.0," 5200 S Green St, Chicago, IL 60609 ",3.0,4.0,3.03,2150410.5,-1901410.5,good deal
+350,107000.0," 3847 W 47th St APT 1F, Chicago, IL 60632 ",3.0,4.0,2.5,2006673.9,-1899673.875,good deal
+227,125000.0," 700 W Bittersweet Pl APT 904, Chicago, IL 60613 ",3.0,4.0,2.563,2023759.6,-1898759.625,good deal
+323,260000.0," 3524 W 85th St, Chicago, IL 60652 ",4.0,3.0,3.445,2154531.5,-1894531.5,good deal
+204,260000.0," 1445 N State Pkwy APT 1705, Chicago, IL 60610 ",4.0,3.0,3.445,2154531.5,-1894531.5,good deal
+243,289000.0," 4822 S Dorchester Ave APT 2, Chicago, IL 60615 ",4.0,3.0,3.445,2154531.5,-1865531.5,good deal
+54,200000.0," 3950 N Lake Shore Dr APT 911, Chicago, IL 60613 ",5.0,3.0,1.912,2064168.1,-1864168.125,good deal
+223,239900.0," 4834 N Kenmore Ave APT GN, Chicago, IL 60640 ",4.0,4.0,1.655,2102896.5,-1862996.5,good deal
+283,299900.0," 3432 W Belden Ave #G, Chicago, IL 60647 ",4.0,3.0,3.445,2154531.5,-1854631.5,good deal
+177,30000.0," 4800 S Lake Park Ave APT 1304, Chicago, IL 60615 ",4.0,3.0,2.365,1861634.4,-1831634.375,good deal
+307,208900.0," 1056 N Leavitt St, Chicago, IL 60622 ",3.0,4.0,2.563,2023759.6,-1814859.625,good deal
+501,89000.0," 2544 E 109th St, Chicago, IL 60617 ",5.0,3.0,1.3,1898192.9,-1809192.875,good deal
+549,829900.0," 10144 S Hoyne Ave, Chicago, IL 60643 ",4.0,4.0,3.629,2638247.5,-1808347.5,good deal
+390,199900.0," 4043 S Drexel Blvd APT 202, Chicago, IL 60653 ",3.0,4.0,2.5,2006673.9,-1806773.875,good deal
+84,350000.0," 7609 S Clyde Ave, Chicago, IL 60649 ",4.0,3.0,3.445,2154531.5,-1804531.5,good deal
+184,319900.0," 7637 W Ardmore Ave, Chicago, IL 60631 ",4.0,4.0,1.655,2102896.5,-1782996.5,good deal
+104,324900.0," 837 E 87th St, Chicago, IL 60619 ",4.0,4.0,1.655,2102896.5,-1777996.5,good deal
+57,259000.0," 4214 N Mobile Ave, Chicago, IL 60634 ",6.0,2.0,2.2,2033847.1,-1774847.125,good deal
+124,389900.0," 3758 N Plainfield Ave, Chicago, IL 60634 ",4.0,3.0,3.445,2154531.5,-1764631.5,good deal
+144,339900.0," 5063 W Jackson Blvd, Chicago, IL 60644 ",4.0,4.0,1.655,2102896.5,-1762996.5,good deal
+381,20000.0," 4850 S Lake Park Ave #2307B, Chicago, IL 60615 ",5.0,2.0,2.472,1782225.9,-1762225.875,good deal
+14,309900.0," 4633 W Erie St, Chicago, IL 60644 ",5.0,3.0,1.912,2064168.1,-1754268.125,good deal
+270,259900.0," 1371 E 48th St #1W, Chicago, IL 60615 ",3.0,4.0,2.5,2006673.9,-1746773.875,good deal
+137,125000.0," 8059 S Kenwood Ave, Chicago, IL 60619 ",4.0,3.0,2.365,1861634.4,-1736634.375,good deal
+412,189900.0," 1756 N Kedzie Ave APT E, Chicago, IL 60647 ",4.0,3.0,2.6,1925366.6,-1735466.625,good deal
+267,288800.0," 4427 N Merrimac Ave, Chicago, IL 60630 ",3.0,4.0,2.563,2023759.6,-1734959.625,good deal
+310,299900.0," 9436 S Saint Lawrence Ave, Chicago, IL 60619 ",3.0,4.0,2.5,2006673.9,-1706773.875,good deal
+67,467400.0," 1345 W Fillmore St APT 1, Chicago, IL 60607 ",4.0,3.0,3.4,2142327.5,-1674927.5,good deal
+16,1499000.0," 4841 N Oakley Ave, Chicago, IL 60625 ",4.0,5.0,4.0,3172678.0,-1673678.0,good deal
+182,135000.0," 5157 S Emerald Ave, Chicago, IL 60609 ",5.0,2.0,2.472,1782225.9,-1647225.875,good deal
+347,390000.0," 1040 W Adams St UNIT 122, Chicago, IL 60607 ",3.0,4.0,2.563,2023759.6,-1633759.625,good deal
+191,375000.0," 645 N Kingsbury St APT 1001, Chicago, IL 60654 ",3.0,4.0,2.5,2006673.9,-1631673.875,good deal
+111,389900.0," 9323 S Laflin St, Chicago, IL 60620 ",3.0,4.0,2.5,2006673.9,-1616773.875,good deal
+376,249900.0," 5 N Wabash Ave APT 1604, Chicago, IL 60602 ",4.0,3.0,2.365,1861634.4,-1611734.375,good deal
+216,269900.0," 4447 N Malden St APT G, Chicago, IL 60640 ",4.0,3.0,2.365,1861634.4,-1591734.375,good deal
+142,197000.0," 834 E 89th Pl, Chicago, IL 60619 ",5.0,2.0,2.472,1782225.9,-1585225.875,good deal
+341,215000.0," 2300 W Granville Ave #3, Chicago, IL 60659 ",5.0,2.0,2.472,1782225.9,-1567225.875,good deal
+296,299900.0," 330 W Diversey Pkwy APT 1404, Chicago, IL 60657 ",4.0,3.0,2.365,1861634.4,-1561734.375,good deal
+36,599999.0," 5850 S Austin Ave, Chicago, IL 60638 ",3.0,4.0,3.03,2150410.5,-1550411.5,good deal
+151,499900.0," 1945 W Evergreen Ave APT 1F, Chicago, IL 60622 ",3.0,4.0,2.5,2006673.9,-1506773.875,good deal
+538,475000.0," 110 E Delaware Pl APT 1901, Chicago, IL 60611 ",3.0,4.0,2.4,1979553.6,-1504553.625,good deal
+221,299900.0," 8 W Monroe St APT 1509, Chicago, IL 60603 ",5.0,2.0,2.472,1782225.9,-1482325.875,good deal
+261,305000.0," 3255 N Greenview Ave APT 2R, Chicago, IL 60657 ",5.0,2.0,2.472,1782225.9,-1477225.875,good deal
+97,389000.0," 11434 S Oakley Ave, Chicago, IL 60643 ",4.0,3.0,2.365,1861634.4,-1472634.375,good deal
+477,374900.0," 5038 S Drexel Blvd UNIT 3S, Chicago, IL 60615 ",4.0,3.0,2.3,1844006.4,-1469106.375,good deal
+320,17500.0," 2954 E 80th Pl, Chicago, IL 60617 ",3.0,3.0,2.1,1464378.6,-1446878.625,good deal
+108,595000.0," 4152 W School St, Chicago, IL 60641 ",3.0,4.0,2.563,2023759.6,-1428759.625,good deal
+43,17500.0," 4800 S Lake Park Ave #809, Chicago, IL 60615 ",5.0,2.0,1.2,1437258.1,-1419758.125,good deal
+534,328900.0," 6233 W Berenice Ave, Chicago, IL 60634 ",4.0,3.0,1.909,1737966.6,-1409066.625,good deal
+52,35000.0," 4836 S Calumet Ave, Chicago, IL 60615 ",3.0,3.0,1.909,1412579.1,-1377579.125,good deal
+17,669000.0," 3424 W Wrightwood Ave, Chicago, IL 60647 ",6.0,2.0,2.2,2033847.1,-1364847.125,good deal
+431,329900.0," 1719 N Melvina Ave, Chicago, IL 60639 ",5.0,2.0,2.043,1665880.6,-1335980.625,good deal
+102,450000.0," 2705 W Farwell Ave, Chicago, IL 60645 ",5.0,2.0,2.472,1782225.9,-1332225.875,good deal
+55,85000.0," 5534 S Marshfield Ave, Chicago, IL 60636 ",3.0,3.0,1.9,1410138.4,-1325138.375,good deal
+148,699000.0," 3518 N Reta Ave APT 3, Chicago, IL 60657 ",3.0,4.0,2.563,2023759.6,-1324759.625,good deal
+74,285000.0," 345 N Canal St APT 1306, Chicago, IL 60606 ",1.0,2.0,6.627,1607516.4,-1322516.375,good deal
+528,225000.0," 4855 W Lexington St, Chicago, IL 60644 ",4.0,3.0,1.2,1545685.1,-1320685.125,good deal
+301,474900.0," 2833 N Mozart St, Chicago, IL 60618 ",5.0,2.0,2.472,1782225.9,-1307325.875,good deal
+78,169000.0," 9132 S Woodlawn Ave, Chicago, IL 60619 ",3.0,3.0,2.1,1464378.6,-1295378.625,good deal
+506,499999.0," 4036 N Central Park Ave, Chicago, IL 60618 ",4.0,3.0,2.0,1762646.1,-1262647.125,good deal
+387,769000.0," 450 W Oak St, Chicago, IL 60610 ",3.0,4.0,2.563,2023759.6,-1254759.625,good deal
+401,434900.0," 5028 W Eddy St, Chicago, IL 60641 ",4.0,3.0,1.714,1685082.4,-1250182.375,good deal
+68,925000.0," 1435 N Fairfield Ave, Chicago, IL 60622 ",4.0,4.0,1.9,2169341.0,-1244341.0,good deal
+360,226900.0," 1713 W North Ave UNIT 1R, Chicago, IL 60622 ",3.0,3.0,2.1,1464378.6,-1237478.625,good deal
+12,180000.0," 2921 S Michigan Ave APT 506, Chicago, IL 60616 ",3.0,3.0,1.909,1412579.1,-1232579.125,good deal
+545,520000.0," 1803 S Peoria St, Chicago, IL 60608 ",4.0,3.0,1.92,1740949.9,-1220949.875,good deal
+472,210000.0," 7958 S Sangamon St, Chicago, IL 60620 ",3.0,3.0,1.932,1418816.9,-1208816.875,good deal
+3,240000.0," 9006 S Throop St, Chicago, IL 60620 ",5.0,2.0,1.2,1437258.1,-1197258.125,good deal
+396,115000.0," 7839 S Spaulding Ave, Chicago, IL 60652 ",4.0,2.0,1.908,1303881.1,-1188881.125,good deal
+280,279900.0," 4549 S Lawler Ave, Chicago, IL 60638 ",3.0,3.0,2.1,1464378.6,-1184478.625,good deal
+25,285000.0," 471 N Armour St, Chicago, IL 60642 ",3.0,3.0,2.1,1464378.6,-1179378.625,good deal
+514,155000.0," 1308 W 107th St, Chicago, IL 60643 ",3.0,3.0,1.58,1323354.1,-1168354.125,good deal
+132,80000.0," 6042 S Throop St, Chicago, IL 60636 ",3.0,3.0,1.3,1247417.6,-1167417.625,good deal
+47,189900.0," 6414 N Hoyne Ave APT 3W, Chicago, IL 60645 ",3.0,3.0,1.7,1355898.1,-1165998.125,good deal
+462,1250000.0," 552 W Arlington Pl, Chicago, IL 60614 ",3.0,4.0,4.0,2413475.5,-1163475.5,good deal
+336,698500.0," 3817 N Central Park Ave, Chicago, IL 60618 ",4.0,3.0,2.365,1861634.4,-1163134.375,good deal
+421,334900.0," 2555 W 109th Pl, Chicago, IL 60655 ",3.0,3.0,2.186,1487701.9,-1152801.875,good deal
+316,159900.0," 4642 N Albany Ave APT 3E, Chicago, IL 60625 ",4.0,2.0,1.908,1303881.1,-1143981.125,good deal
+160,89900.0," 4845 S Prairie Ave #G, Chicago, IL 60615 ",3.0,3.0,1.248,1233315.1,-1143415.125,good deal
+157,169900.0," 6260 S Newland Ave #11N, Chicago, IL 60638 ",4.0,2.0,1.908,1303881.1,-1133981.125,good deal
+443,3995000.0," 1010 W George St, Chicago, IL 60657 ",5.0,6.0,8.4,5125165.0,-1130165.0,good deal
+201,339000.0," 1711 N Maplewood Ave APT 2F, Chicago, IL 60647 ",3.0,3.0,2.1,1464378.6,-1125378.625,good deal
+188,899000.0," 5519 S Natoma Ave, Chicago, IL 60638 ",3.0,4.0,2.563,2023759.6,-1124759.625,good deal
+552,430000.0," 3827 N Milwaukee Ave UNIT F, Chicago, IL 60641 ",3.0,3.0,2.4,1545739.1,-1115739.125,good deal
+161,349000.0," 5552 N Marmora Ave, Chicago, IL 60630 ",3.0,3.0,2.1,1464378.6,-1115378.625,good deal
+331,139950.0," 2020 N Lincoln Park W APT 2L, Chicago, IL 60614 ",3.0,3.0,1.3,1247417.6,-1107467.625,good deal
+256,769000.0," 5346 N Normandy Ave, Chicago, IL 60656 ",4.0,3.0,2.365,1861634.4,-1092634.375,good deal
+81,374500.0," 3300 N Lake Shore Dr APT 4E, Chicago, IL 60657 ",3.0,3.0,2.1,1464378.6,-1089878.625,good deal
+359,150000.0," 1049 S Mayfield Ave, Chicago, IL 60644 ",3.0,3.0,1.248,1233315.1,-1083315.125,good deal
+34,535770.0," 726 W Garfield Blvd, Chicago, IL 60609 ",1.0,2.0,6.627,1607516.4,-1071746.375,good deal
+15,339900.0," 6055 W Barry Ave, Chicago, IL 60634 ",3.0,3.0,1.9,1410138.4,-1070238.375,good deal
+448,279000.0," 5217 N Elston Ave #3, Chicago, IL 60630 ",4.0,2.0,2.0,1328831.6,-1049831.625,good deal
+45,835000.0," 1457 N Oakley Blvd, Chicago, IL 60622 ",6.0,1.0,3.2,1871233.4,-1036233.375,good deal
+80,234900.0," 5140 S California Ave, Chicago, IL 60632 ",3.0,3.0,1.248,1233315.1,-998415.125,good deal
+291,250000.0," 6301 N Sheridan Rd APT 10R, Chicago, IL 60660 ",3.0,3.0,1.3,1247417.6,-997417.625,good deal
+239,250000.0," 950 W Monroe St UNIT 607, Chicago, IL 60607 ",3.0,3.0,1.248,1233315.1,-983315.125,good deal
+371,265000.0," 5335 S Harper Ave #3, Chicago, IL 60615 ",3.0,3.0,1.3,1247417.6,-982417.625,good deal
+518,649000.0," 2734 W Washington Blvd, Chicago, IL 60612 ",3.0,3.0,2.7,1627099.4,-978099.375,good deal
+531,404999.0," 5619 S Nashville Ave, Chicago, IL 60638 ",4.0,2.0,2.2,1383071.6,-978072.625,good deal
+172,286500.0," 4531 S Ellis Ave #2, Chicago, IL 60653 ",3.0,3.0,1.3,1247417.6,-960917.625,good deal
+469,279000.0," 3912 N Harlem Ave, Chicago, IL 60634 ",4.0,2.0,1.66,1236623.1,-957623.125,good deal
+212,290000.0," 9519 S Prairie Ave, Chicago, IL 60628 ",3.0,3.0,1.3,1247417.6,-957417.625,good deal
+430,245000.0," 546 E 46th St #2W, Chicago, IL 60653 ",4.0,2.0,1.5,1193230.9,-948230.875,good deal
+541,164990.0," 324 N Laramie Ave, Chicago, IL 60644 ",4.0,2.0,1.2,1111870.6,-946880.625,good deal
+120,295000.0," 4424 N Monticello Ave, Chicago, IL 60625 ",3.0,3.0,1.248,1233315.1,-938315.125,good deal
+459,179900.0," 8118 S Laflin St, Chicago, IL 60620 ",3.0,2.0,2.4,1111924.1,-932024.125,good deal
+73,45000.0," 4800 S Lake Park Ave #902A, Chicago, IL 60615 ",3.0,2.0,1.9,976323.6,-931323.625,good deal
+558,174900.0," 8632 S University Ave, Chicago, IL 60619 ",4.0,2.0,1.176,1105361.6,-930461.625,good deal
+279,305000.0," 8506 S Kedvale Ave, Chicago, IL 60652 ",3.0,3.0,1.248,1233315.1,-928315.125,good deal
+30,80000.0," 7000 S Paxton Ave N #2, Chicago, IL 60649 ",3.0,2.0,2.0,1003443.6,-923443.625,good deal
+251,329900.0," 235 W Van Buren St UNIT 3403, Chicago, IL 60607 ",3.0,3.0,1.3,1247417.6,-917517.625,good deal
+453,178000.0," 8619 W Foster Ave UNIT 1A, Chicago, IL 60656 ",4.0,2.0,1.1,1084750.4,-906750.375,good deal
+92,345000.0," 1226 W Huron St APT 102, Chicago, IL 60642 ",3.0,3.0,1.3,1247417.6,-902417.625,good deal
+121,575000.0," 4706 N Malden St, Chicago, IL 60640 ",3.0,3.0,2.1,1464378.6,-889378.625,good deal
+7,479000.0," 2156 N Damen Ave APT 3, Chicago, IL 60647 ",3.0,3.0,1.7,1355898.1,-876898.125,good deal
+168,209000.0," 607 E 91st Pl, Chicago, IL 60619 ",3.0,2.0,2.277,1078566.4,-869566.375,good deal
+86,217500.0," 9340 S Eggleston Ave, Chicago, IL 60620 ",3.0,2.0,2.3,1084804.1,-867304.125,good deal
+38,597500.0," 1527 W Chestnut St #1, Chicago, IL 60642 ",3.0,3.0,2.1,1464378.6,-866878.625,good deal
+208,219900.0," 5000 N Marine Dr #4F, Chicago, IL 60640 ",3.0,2.0,2.277,1078566.4,-858666.375,good deal
+489,599900.0," 1432 W Erie St APT 3R, Chicago, IL 60642 ",3.0,3.0,2.03,1445394.6,-845494.625,good deal
+319,389000.0," 2124 N Hudson Ave APT 402, Chicago, IL 60614 ",3.0,3.0,1.248,1233315.1,-844315.125,good deal
+206,250000.0," 208 W Washington St APT 1208, Chicago, IL 60606 ",3.0,2.0,2.3,1084804.1,-834804.125,good deal
+411,680000.0," 732 N Willard Ct, Chicago, IL 60642 ",3.0,3.0,2.26,1507770.9,-827770.875,good deal
+325,269000.0," 500 S Clinton St APT 442, Chicago, IL 60607 ",3.0,2.0,2.3,1084804.1,-815804.125,good deal
+427,649900.0," 1040 N Kingsbury St, Chicago, IL 60610 ",3.0,3.0,2.1,1464378.6,-814478.625,good deal
+442,624900.0," 1351 S Indiana Pkwy, Chicago, IL 60605 ",3.0,3.0,2.0,1437258.6,-812358.625,good deal
+365,275000.0," 444 W Fullerton Pkwy APT 1203, Chicago, IL 60614 ",3.0,2.0,2.3,1084804.1,-809804.125,good deal
+428,719000.0," 3155 N Honore St, Chicago, IL 60657 ",3.0,3.0,2.3,1518618.9,-799618.875,good deal
+461,775000.0," 1104 N Marshfield Ave #1, Chicago, IL 60622 ",3.0,3.0,2.5,1572859.1,-797859.125,good deal
+166,290000.0," 8524 S Aberdeen St, Chicago, IL 60620 ",3.0,2.0,2.3,1084804.1,-794804.125,good deal
+117,510000.0," 1523 W Granville Ave, Chicago, IL 60660 ",4.0,2.0,1.908,1303881.1,-793881.125,good deal
+366,34900.0," 10634 S State St, Chicago, IL 60628 ",3.0,2.0,1.335,823094.9,-788194.875,good deal
+367,299900.0," 4300 W Cullerton St, Chicago, IL 60623 ",3.0,2.0,2.277,1078566.4,-778666.375,good deal
+499,599000.0," 3736 N Janssen Ave #C, Chicago, IL 60613 ",3.0,3.0,1.75,1369458.1,-770458.125,good deal
+287,310000.0," 161 N Long Ave, Chicago, IL 60644 ",3.0,2.0,2.277,1078566.4,-768566.375,good deal
+473,729000.0," 1120 N Lake Shore Dr #7B, Chicago, IL 60611 ",3.0,3.0,2.2,1491498.6,-762498.625,good deal
+70,245000.0," 2139 W Gladys Ave #1, Chicago, IL 60612 ",3.0,2.0,2.0,1003443.6,-758443.625,good deal
+236,549000.0," 433 W Briar Pl APT 8C, Chicago, IL 60657 ",4.0,2.0,1.908,1303881.1,-754881.125,good deal
+276,550000.0," 2422 W 35th St, Chicago, IL 60632 ",4.0,2.0,1.908,1303881.1,-753881.125,good deal
+455,749900.0," 1033 N Riverwalk St, Chicago, IL 60610 ",3.0,3.0,2.2,1491498.6,-741598.625,good deal
+88,339900.0," 2911 N Merrimac Ave, Chicago, IL 60634 ",3.0,2.0,2.277,1078566.4,-738666.375,good deal
+491,279900.0," 8145 S Kildare Ave, Chicago, IL 60652 ",3.0,2.0,2.025,1010223.9,-730323.875,good deal
+58,359000.0," 4721 S Drexel Blvd #1S, Chicago, IL 60615 ",2.0,3.0,1.855,1072546.6,-713546.625,good deal
+362,30000.0," 605 N Laramie Ave, Chicago, IL 60644 ",3.0,2.0,1.04,743090.6,-713090.625,good deal
+35,165000.0," 7038 S Wabash Ave, Chicago, IL 60637 ",3.0,2.0,1.5,867843.1,-702843.125,good deal
+414,154000.0," 10354 S Walden Pkwy, Chicago, IL 60643 ",3.0,2.0,1.418,845604.6,-691604.625,good deal
+488,155000.0," 4432 S Prairie Ave #1, Chicago, IL 60653 ",3.0,2.0,1.4,840723.1,-685723.125,good deal
+126,409000.0," 78 E Elm St APT 1, Chicago, IL 60611 ",3.0,2.0,2.3,1084804.1,-675804.125,good deal
+179,35000.0," 38 W 112th Pl, Chicago, IL 60628 ",4.0,1.0,1.296,704091.1,-669091.125,good deal
+437,339900.0," 6 E Monroe St APT 1603, Chicago, IL 60603 ",2.0,3.0,1.6,1003390.4,-663490.375,good deal
+466,300000.0," 6338 W Eddy St, Chicago, IL 60634 ",3.0,2.0,1.842,960593.9,-660593.875,good deal
+436,279900.0," 3926 W 104th St, Chicago, IL 60655 ",3.0,2.0,1.74,932931.4,-653031.375,good deal
+429,120000.0," 5318 W Bloomingdale Ave, Chicago, IL 60639 ",3.0,2.0,1.15,772922.6,-652922.625,good deal
+486,259900.0," 7314 N Ridge Blvd UNIT 2A, Chicago, IL 60645 ",3.0,2.0,1.66,911235.4,-651335.375,good deal
+480,299900.0," 5142 S Wabash Ave #2, Chicago, IL 60615 ",3.0,2.0,1.8,949203.6,-649303.625,good deal
+375,150000.0," 3831 W Arthington St, Chicago, IL 60624 ",3.0,2.0,1.241,797602.1,-647602.125,good deal
+438,185000.0," 3950 N Lake Shore Dr APT 228, Chicago, IL 60613 ",3.0,2.0,1.35,827163.1,-642163.125,good deal
+521,2499000.0," 1615 W North Ave, Chicago, IL 60622 ",5.0,6.0,1.06,3134549.0,-635549.0,good deal
+255,164900.0," 7735 S Calumet Ave, Chicago, IL 60619 ",3.0,2.0,1.241,797602.1,-632702.125,good deal
+406,116000.0," 1942 S Hamlin Ave, Chicago, IL 60623 ",3.0,2.0,1.044,744175.4,-628175.375,good deal
+263,1475000.0," 533 N Marshfield Ave, Chicago, IL 60622 ",4.0,4.0,1.655,2102896.5,-627896.5,good deal
+544,249900.0," 2749 W Lake St, Chicago, IL 60612 ",3.0,2.0,1.517,872453.6,-622553.625,good deal
+245,470000.0," 1541 N Talman Ave #1, Chicago, IL 60622 ",3.0,2.0,2.3,1084804.1,-614804.125,good deal
+298,90000.0," 1922 W Hood Ave #5A, Chicago, IL 60660 ",4.0,1.0,1.296,704091.1,-614091.125,good deal
+87,210000.0," 5410 W Waveland Ave, Chicago, IL 60641 ",3.0,2.0,1.335,823094.9,-613094.875,good deal
+529,420000.0," 939 W Winona St #2E, Chicago, IL 60640 ",3.0,2.0,2.1,1030563.9,-610563.875,good deal
+75,274000.0," 860 N Lake Shore Dr #4M, Chicago, IL 60611 ",3.0,2.0,1.5,867843.1,-593843.125,good deal
+123,149900.0," 880 N Lake Shore Dr APT 5G, Chicago, IL 60611 ",3.0,2.0,1.04,743090.6,-593190.625,good deal
+404,339000.0," 5200 S Dorchester Ave APT 1, Chicago, IL 60615 ",3.0,2.0,1.7,922083.4,-583083.375,good deal
+96,215000.0," 9136 S Michigan Ave, Chicago, IL 60619 ",3.0,2.0,1.241,797602.1,-582602.125,good deal
+176,217000.0," 2809 W Ainslie St #3E, Chicago, IL 60625 ",3.0,2.0,1.241,797602.1,-580602.125,good deal
+64,159900.0," 2237 S Sawyer Ave, Chicago, IL 60623 ",3.0,2.0,1.023,738480.1,-578580.125,good deal
+18,495000.0," 1242 N Lake Shore Dr #6N, Chicago, IL 60610 ",2.0,3.0,1.855,1072546.6,-577546.625,good deal
+215,225000.0," 314 N Waller Ave, Chicago, IL 60644 ",3.0,2.0,1.241,797602.1,-572602.125,good deal
+240,894000.0," 1726 W Jarvis Ave, Chicago, IL 60626 ",3.0,3.0,2.1,1464378.6,-570378.625,good deal
+33,409000.0," 6145 N Sheridan Rd APT 29D, Chicago, IL 60660 ",3.0,2.0,1.9,976323.6,-567323.625,good deal
+258,139950.0," 2800 N Pine Grove Ave UNIT 5J, Chicago, IL 60657 ",4.0,1.0,1.296,704091.1,-564141.125,good deal
+322,179900.0," 6420 S Marshfield Ave, Chicago, IL 60636 ",3.0,2.0,1.04,743090.6,-563190.625,good deal
+515,395000.0," 3200 N Lake Shore Dr APT 605, Chicago, IL 60657 ",3.0,2.0,1.8,949203.6,-554203.625,good deal
+242,189000.0," 3032 W North Ave APT G, Chicago, IL 60647 ",3.0,2.0,1.04,743090.6,-554090.625,good deal
+187,220000.0," 5801 N Sheridan Rd APT 6B, Chicago, IL 60660 ",3.0,2.0,1.135,768854.6,-548854.625,good deal
+139,159900.0," 9514 S University Ave, Chicago, IL 60628 ",4.0,1.0,1.296,704091.1,-544191.125,good deal
+266,229000.0," 2853 W Congress Pkwy, Chicago, IL 60612 ",3.0,2.0,1.135,768854.6,-539854.625,good deal
+485,315000.0," 1534 W Jonquil Ter, Chicago, IL 60626 ",3.0,2.0,1.4,840723.1,-525723.125,good deal
+107,245000.0," 9852 S Forest Ave, Chicago, IL 60628 ",3.0,2.0,1.135,768854.6,-523854.625,good deal
+507,429900.0," 7545 N Octavia Ave, Chicago, IL 60631 ",3.0,2.0,1.775,942423.4,-512523.375,good deal
+83,234900.0," 400 E 89th St, Chicago, IL 60619 ",3.0,2.0,1.04,743090.6,-508190.625,good deal
+498,415000.0," 55 W Erie St APT 1W, Chicago, IL 60654 ",3.0,2.0,1.7,922083.4,-507083.375,good deal
+127,318000.0," 5915 W Dakin St, Chicago, IL 60634 ",3.0,2.0,1.335,823094.9,-505094.875,good deal
+197,800000.0," 1214 N La Salle Dr, Chicago, IL 60610 ",4.0,2.0,1.908,1303881.1,-503881.125,good deal
+163,239900.0," 4750 N Elston Ave APT 203, Chicago, IL 60630 ",3.0,2.0,1.04,743090.6,-503190.625,good deal
+154,29000.0," 4850 S Lake Park Ave APT 2406, Chicago, IL 60615 ",2.0,2.0,1.45,528895.6,-499895.625,good deal
+523,425000.0," 1225 W Morse Ave APT 208, Chicago, IL 60626 ",3.0,2.0,1.697,921269.9,-496269.875,good deal
+282,250000.0," 3793 W 78th St, Chicago, IL 60652 ",3.0,2.0,1.04,743090.6,-493090.625,good deal
+432,399000.0," 519 W Surf St #1, Chicago, IL 60657 ",3.0,2.0,1.583,890352.9,-491352.875,good deal
+439,209900.0," 2723 W 38th Pl, Chicago, IL 60632 ",3.0,2.0,0.874,698071.25,-488171.25,good deal
+540,319999.0," 1845 N California Ave #2, Chicago, IL 60647 ",3.0,2.0,1.278,807636.6,-487637.625,good deal
+65,979900.0," 3958 S Drexel Ave, Chicago, IL 60653 ",3.0,3.0,2.1,1464378.6,-484478.625,good deal
+522,254900.0," 4150 W 81st St, Chicago, IL 60652 ",3.0,2.0,1.024,738751.4,-483851.375,good deal
+445,289000.0," 3350 N Oketo Ave, Chicago, IL 60634 ",3.0,2.0,1.14,770210.6,-481210.625,good deal
+246,349000.0," 2558 W Haddon Ave #1, Chicago, IL 60622 ",3.0,2.0,1.335,823094.9,-474094.875,good deal
+226,295000.0," 50 E 26th St APT 406, Chicago, IL 60616 ",3.0,2.0,1.135,768854.6,-473854.625,good deal
+24,264900.0," 5130 S Sayre Ave, Chicago, IL 60638 ",3.0,2.0,1.023,738480.1,-473580.125,good deal
+136,324500.0," 1000 N Lake Shore Dr APT 509, Chicago, IL 60611 ",3.0,2.0,1.241,797602.1,-473102.125,good deal
+218,232500.0," 900 W Margate Ter #2C, Chicago, IL 60640 ",4.0,1.0,1.296,704091.1,-471591.125,good deal
+306,299000.0," 1148 W Columbia Ave APT 1W, Chicago, IL 60626 ",3.0,2.0,1.135,768854.6,-469854.625,good deal
+147,299500.0," 5490 S South Shore Dr #10N, Chicago, IL 60615 ",3.0,2.0,1.135,768854.6,-469354.625,good deal
+99,239000.0," 13455 S Green Bay Ave, Chicago, IL 60633 ",4.0,1.0,1.296,704091.1,-465091.125,good deal
+393,78800.0," 5202 W Schubert Ave #3, Chicago, IL 60639 ",2.0,2.0,1.45,528895.6,-450095.625,good deal
+346,329000.0," 6357 S Oak Park Ave, Chicago, IL 60638 ",3.0,2.0,1.135,768854.6,-439854.625,good deal
+9,199800.0," 1801 W Touhy Ave UNIT H, Chicago, IL 60626 ",2.0,2.0,1.8,623816.0,-424016.0,good deal
+546,259000.0," 4117 S Albany Ave, Chicago, IL 60632 ",1.0,4.0,0.007,679794.0,-420794.0,good deal
+327,665000.0," 4448 N Mozart St, Chicago, IL 60625 ",3.0,2.0,2.277,1078566.4,-413566.375,good deal
+128,675000.0," 2827 N Lakewood Ave #1, Chicago, IL 60657 ",3.0,2.0,2.277,1078566.4,-403566.375,good deal
+285,685000.0," 2227 W Mclean Ave, Chicago, IL 60647 ",3.0,2.0,2.3,1084804.1,-399804.125,good deal
+286,429000.0," 5237 W George St, Chicago, IL 60641 ",3.0,2.0,1.335,823094.9,-394094.875,good deal
+203,350000.0," 222 N Columbus Dr APT 1603, Chicago, IL 60601 ",3.0,2.0,1.04,743090.6,-393090.625,good deal
+416,479000.0," 5934 W Fitch Ave, Chicago, IL 60646 ",3.0,2.0,1.494,866215.9,-387215.875,good deal
+294,140000.0," 10730 S Rhodes Ave, Chicago, IL 60628 ",2.0,2.0,1.438,525641.1,-385641.125,good deal
+533,519900.0," 260 E Chestnut St APT 2401, Chicago, IL 60611 ",3.0,2.0,1.635,904455.4,-384555.375,good deal
+101,30000.0," 4280 W Ford City Dr #203, Chicago, IL 60652 ",2.0,2.0,1.0,406855.12,-376855.125,good deal
+353,155000.0," 2458 W Estes Ave #3, Chicago, IL 60645 ",2.0,2.0,1.45,528895.6,-373895.625,good deal
+273,159900.0," 3544 W Cortland St APT BA, Chicago, IL 60647 ",2.0,2.0,1.45,528895.6,-368995.625,good deal
+335,435000.0," 2729 N Sheffield Ave APT 3S, Chicago, IL 60614 ",3.0,2.0,1.241,797602.1,-362602.125,good deal
+418,157000.0," 5000 S Cornell Ave APT 15D, Chicago, IL 60615 ",2.0,2.0,1.4,515335.5,-358335.5,good deal
+247,735000.0," 2245 N Rockwell St #4, Chicago, IL 60647 ",3.0,2.0,2.277,1078566.4,-343566.375,good deal
+378,370000.0," 330 W Diversey Pkwy APT 502, Chicago, IL 60657 ",4.0,1.0,1.296,704091.1,-334091.125,good deal
+527,1975000.0," 49 E Bellevue Pl, Chicago, IL 60611 ",3.0,4.0,3.6,2304995.0,-329995.0,good deal
+547,189000.0," 617 W Addison St #3, Chicago, IL 60657 ",2.0,2.0,1.4,515335.5,-326335.5,good deal
+49,299000.0," 5042 W Waveland Ave, Chicago, IL 60641 ",2.0,2.0,1.8,623816.0,-324816.0,good deal
+295,475000.0," 1801 W Diversey Pkwy UNIT 4, Chicago, IL 60614 ",3.0,2.0,1.241,797602.1,-322602.125,good deal
+402,660000.0," 645 W Wrightwood Ave #1A, Chicago, IL 60614 ",3.0,2.0,1.9,976323.6,-316323.625,good deal
+328,149000.0," 3950 N Lake Shore Dr APT 1027, Chicago, IL 60613 ",2.0,2.0,1.196,460010.5,-311010.5,good deal
+1,30500.0," 13150 S Eberhart Ave, Riverdale, IL 60827 ",2.0,2.0,0.753,339868.38,-309368.375,good deal
+395,99900.0," 10344 S Springfield Ave, Chicago, IL 60655 ",2.0,2.0,1.0,406855.12,-306955.125,good deal
+260,100000.0," 8835 S Indiana Ave, Chicago, IL 60619 ",2.0,2.0,1.0,406855.12,-306855.125,good deal
+508,589900.0," 450 N Sangamon St #3, Chicago, IL 60642 ",3.0,2.0,1.6,894963.4,-305063.375,good deal
+31,130000.0," 6730 S South Shore Dr APT 1203, Chicago, IL 60649 ",2.0,2.0,1.1,433975.12,-303975.125,good deal
+196,105000.0," 9205 S State St, Chicago, IL 60619 ",2.0,2.0,1.0,406855.12,-301855.125,good deal
+355,110000.0," 6345 S Greenwood Ave APT 3, Chicago, IL 60637 ",2.0,2.0,1.0,406855.12,-296855.125,good deal
+289,169900.0," 5553 S Mozart St, Chicago, IL 60629 ",2.0,2.0,1.2,461095.38,-291195.375,good deal
+340,121999.0," 11640 S Racine Ave, Chicago, IL 60643 ",2.0,2.0,1.0,406855.12,-284856.125,good deal
+21,200000.0," 5013 S King Dr UNIT 4, Chicago, IL 60615 ",2.0,2.0,1.25,474655.38,-274655.375,good deal
+423,1395000.0," 333 N Canal St APT 2501, Chicago, IL 60606 ",3.0,3.0,2.855,1669135.6,-274135.625,good deal
+420,29000.0," 231 W 107th St, Chicago, IL 60628 ",3.0,1.0,1.0,298427.88,-269427.875,good deal
+170,199900.0," 9705 S Carpenter St, Chicago, IL 60643 ",2.0,2.0,1.2,461095.38,-261195.375,good deal
+313,269000.0," 1226 W Sunnyside Ave #1E, Chicago, IL 60640 ",2.0,2.0,1.45,528895.6,-259895.625,good deal
+8,215000.0," 5415 N Sheridan Rd APT 2111, Chicago, IL 60640 ",2.0,2.0,1.25,474655.38,-259655.375,good deal
+318,284900.0," 1221 N Dearborn St PENTHOUSE P9N, Chicago, IL 60610 ",2.0,2.0,1.5,542455.6,-257555.625,good deal
+116,150000.0," 4109 S Prairie Ave #GN, Chicago, IL 60653 ",2.0,2.0,1.0,406855.12,-256855.125,good deal
+98,55000.0," 8847 S Prairie Ave, Chicago, IL 60619 ",3.0,1.0,1.04,309276.0,-254276.0,good deal
+235,155000.0," 7928 S Blackstone Ave, Chicago, IL 60619 ",2.0,2.0,1.0,406855.12,-251855.125,good deal
+22,250000.0," 1107 W Lawrence Ave APT 201, Chicago, IL 60640 ",2.0,2.0,1.35,501775.5,-251775.5,good deal
+338,465000.0," 5836 S Natoma Ave, Chicago, IL 60638 ",4.0,1.0,1.296,704091.1,-239091.125,good deal
+207,595000.0," 1755 N Hermitage Ave APT F, Chicago, IL 60622 ",3.0,2.0,1.335,823094.9,-228094.875,good deal
+300,180000.0," 1136 W Pratt Blvd APT GS, Chicago, IL 60626 ",2.0,2.0,1.0,406855.12,-226855.125,good deal
+175,300000.0," 6111 W Lawrence Ave, Chicago, IL 60630 ",2.0,2.0,1.438,525641.1,-225641.125,good deal
+329,240000.0," 1415 N Dearborn St APT 8A, Chicago, IL 60610 ",2.0,2.0,1.2,461095.38,-221095.375,good deal
+181,189900.0," 4203 S Prairie Ave #1, Chicago, IL 60653 ",2.0,2.0,1.0,406855.12,-216955.125,good deal
+41,129900.0," 6547 S Artesian Ave, Chicago, IL 60629 ",2.0,2.0,0.753,339868.38,-209968.375,good deal
+114,319000.0," 4250 N Marine Dr APT 2416, Chicago, IL 60613 ",2.0,2.0,1.45,528895.6,-209895.625,good deal
+470,279900.0," 1211 N Honore St #B, Chicago, IL 60622 ",2.0,2.0,1.3,488215.38,-208315.375,good deal
+532,220000.0," 3930 N Pine Grove Ave APT 2415, Chicago, IL 60613 ",2.0,2.0,1.075,427195.12,-207195.125,good deal
+62,299000.0," 1800 W Roscoe St APT 309, Chicago, IL 60657 ",2.0,2.0,1.35,501775.5,-202775.5,good deal
+497,299000.0," 2400 N Lakeview Ave APT 1705, Chicago, IL 60614 ",2.0,2.0,1.35,501775.5,-202775.5,good deal
+50,314500.0," 1000 W Leland Ave APT 5G, Chicago, IL 60640 ",2.0,2.0,1.36,504487.5,-189987.5,good deal
+399,259000.0," 208 W Washington St APT 1113, Chicago, IL 60606 ",2.0,2.0,1.15,447535.25,-188535.25,good deal
+278,359900.0," 6413 S Kenneth Ave, Chicago, IL 60629 ",2.0,2.0,1.5,542455.6,-182555.625,good deal
+10,325000.0," 161 W Harrison St UNIT 607, Chicago, IL 60605 ",2.0,2.0,1.36,504487.5,-179487.5,good deal
+61,299900.0," 3755 N Pine Grove Ave #3, Chicago, IL 60613 ",2.0,2.0,1.25,474655.38,-174755.375,good deal
+23,169000.0," 2529 S Troy St, Chicago, IL 60623 ",2.0,2.0,0.724,332003.5,-163003.5,good deal
+130,300000.0," 222 E Pearson St APT 2109, Chicago, IL 60611 ",2.0,2.0,1.2,461095.38,-161095.375,good deal
+220,249000.0," 3963 W Belmont Ave UNIT 518, Chicago, IL 60618 ",2.0,2.0,1.0,406855.12,-157855.125,good deal
+63,175000.0," 5927 S Prairie Ave, Chicago, IL 60637 ",2.0,2.0,0.724,332003.5,-157003.5,good deal
+119,389000.0," 2440 N Lakeview Ave #7D, Chicago, IL 60614 ",2.0,2.0,1.5,542455.6,-153455.625,good deal
+513,324000.0," 3200 N Lake Shore Dr APT 902, Chicago, IL 60657 ",2.0,2.0,1.25,474655.38,-150655.375,good deal
+219,149900.0," 4821 N Sawyer Ave #G, Chicago, IL 60625 ",3.0,1.0,1.0,298427.88,-148527.875,good deal
+156,260000.0," 8 W Monroe St APT 1609, Chicago, IL 60603 ",2.0,2.0,1.0,406855.12,-146855.125,good deal
+454,324000.0," 222 N Columbus Dr APT 904, Chicago, IL 60601 ",2.0,2.0,1.225,467875.38,-143875.375,good deal
+26,360000.0," 4616 N Kenmore Ave APT 305, Chicago, IL 60640 ",2.0,2.0,1.342,499605.88,-139605.875,good deal
+517,269900.0," 8 W Monroe St APT 1703, Chicago, IL 60603 ",2.0,2.0,1.004,407939.88,-138039.875,good deal
+505,300000.0," 1101 N Crosby St #A, Chicago, IL 60610 ",2.0,2.0,1.111,436958.38,-136958.375,good deal
+503,350000.0," 520 S State St APT 1102, Chicago, IL 60605 ",2.0,2.0,1.29,485503.38,-135503.375,good deal
+217,175000.0," 2938 W Fillmore St #200, Chicago, IL 60612 ",3.0,1.0,1.04,309276.0,-134276.0,good deal
+476,414555.0," 1508 W Highland Ave, Chicago, IL 60660 ",3.0,1.0,1.9,542509.0,-127954.0,good deal
+95,399000.0," 1111 S Wabash Ave APT 2309, Chicago, IL 60605 ",2.0,2.0,1.438,525641.1,-126641.125,good deal
+467,335000.0," 900 N Lake Shore Dr APT 1602, Chicago, IL 60611 ",2.0,2.0,1.2,461095.38,-126095.375,good deal
+178,187000.0," 400 W Ontario St APT 508B, Chicago, IL 60654 ",3.0,1.0,1.04,309276.0,-122276.0,good deal
+249,340000.0," 9707 S Winchester Ave, Chicago, IL 60643 ",2.0,2.0,1.2,461095.38,-121095.375,good deal
+209,339000.0," 3217 W Leland Ave APT 1W, Chicago, IL 60625 ",2.0,2.0,1.196,460010.5,-121010.5,good deal
+516,259900.0," 1 E 8th St APT 807, Chicago, IL 60605 ",2.0,2.0,0.9,379734.88,-119834.875,good deal
+100,179000.0," 8362 S Keating Ave, Chicago, IL 60652 ",3.0,1.0,1.0,298427.88,-119427.875,good deal
+386,649900.0," 1513 N Clybourn Ave #E, Chicago, IL 60610 ",3.0,2.0,1.135,768854.6,-118954.625,good deal
+550,205050.0," 5334 S Kolin Ave, Chicago, IL 60632 ",3.0,1.0,1.08,320124.0,-115074.0,good deal
+536,339000.0," 1620 S Michigan Ave UNIT 814, Chicago, IL 60616 ",2.0,2.0,1.148,446992.88,-107992.875,good deal
+380,299500.0," 1209 N State Pkwy APT 6, Chicago, IL 60610 ",2.0,2.0,1.0,406855.12,-107355.125,good deal
+460,349900.0," 1211 N Lasalle St APT 1502, Chicago, IL 60610 ",2.0,2.0,1.18,455671.25,-105771.25,good deal
+257,210000.0," 1443 N Washtenaw Ave APT 2F, Chicago, IL 60622 ",3.0,1.0,1.04,309276.0,-99276.0,good deal
+90,375000.0," 2840 N Damen Ave #2, Chicago, IL 60618 ",2.0,2.0,1.2,461095.38,-86095.375,good deal
+169,375000.0," 1735 N Paulina St APT 515, Chicago, IL 60622 ",2.0,2.0,1.196,460010.5,-85010.5,good deal
+539,389900.0," 1427 N Bosworth Ave APT 2, Chicago, IL 60642 ",2.0,2.0,1.25,474655.38,-84755.375,good deal
+194,449500.0," 3037 N Racine Ave #2, Chicago, IL 60657 ",2.0,2.0,1.45,528895.6,-79395.625,good deal
+135,450000.0," 708 W Barry Ave APT 1F, Chicago, IL 60657 ",2.0,2.0,1.438,525641.1,-75641.125,good deal
+66,425000.0," 8215 W Summerdale Ave, Chicago, IL 60656 ",2.0,2.0,1.342,499605.88,-74605.875,good deal
+410,388000.0," 2021 W Armitage Ave #2, Chicago, IL 60647 ",2.0,2.0,1.2,461095.38,-73095.375,good deal
+6,379900.0," 5052 N Rutherford Ave, Chicago, IL 60656 ",2.0,2.0,1.163,451060.88,-71160.875,good deal
+141,339000.0," 3300 W 114th St, Chicago, IL 60655 ",2.0,2.0,1.0,406855.12,-67855.125,good deal
+398,475000.0," 1201 W Adams St APT 805, Chicago, IL 60607 ",2.0,2.0,1.5,542455.6,-67455.625,good deal
+29,395000.0," 200 N Dearborn St UNIT 4106, Chicago, IL 60601 ",2.0,2.0,1.205,462451.38,-67451.375,good deal
+512,399900.0," 1040 W Adams St UNIT 221, Chicago, IL 60607 ",2.0,2.0,1.2,461095.38,-61195.375,good deal
+248,400000.0," 1110 N Lake Shore Dr APT 31S, Chicago, IL 60611 ",2.0,2.0,1.196,460010.5,-60010.5,good deal
+339,240000.0," 3900 N Lake Shore Dr APT 3A, Chicago, IL 60613 ",3.0,1.0,1.0,298427.88,-58427.875,good deal
+435,500000.0," 400 W Ontario St APT 701, Chicago, IL 60654 ",2.0,2.0,1.55,556015.6,-56015.625,good deal
+39,350000.0," 155 N Harbor Dr APT 4107, Chicago, IL 60601 ",2.0,2.0,0.99,404143.12,-54143.125,good deal
+557,439900.0," 1448 N Western Ave APT 3A, Chicago, IL 60622 ",2.0,2.0,1.3,488215.38,-48315.375,good deal
+129,415000.0," 4172 W Eddy St, Chicago, IL 60641 ",2.0,2.0,1.196,460010.5,-45010.5,good deal
+524,419000.0," 2131 N Clark St APT 3, Chicago, IL 60614 ",2.0,2.0,1.2,461095.38,-42095.375,good deal
+89,420000.0," 511 W Division St APT 406, Chicago, IL 60610 ",2.0,2.0,1.196,460010.5,-40010.5,good deal
+138,284900.0," 2728 W Cortez St #1, Chicago, IL 60622 ",3.0,1.0,1.04,309276.0,-24376.0,good deal
+315,389000.0," 2421 N Sawyer Ave #3, Chicago, IL 60647 ",2.0,2.0,1.0,406855.12,-17855.125,good deal
+259,285000.0," 4424 S Indiana Ave APT 3N, Chicago, IL 60653 ",3.0,1.0,1.0,298427.88,-13427.875,good deal
+337,300000.0," 5000 S East End Ave APT 10A, Chicago, IL 60615 ",3.0,1.0,1.04,309276.0,-9276.0,good deal
+434,550000.0," 900 N Kingsbury St APT 701, Chicago, IL 60610 ",2.0,2.0,1.55,556015.6,-6015.625,good deal
+458,515000.0," 1519 W Fry St #3, Chicago, IL 60642 ",2.0,2.0,1.405,516691.5,-1691.5,good deal
+419,550000.0," 82 E Elm St APT 2, Chicago, IL 60611 ",2.0,2.0,1.5,542455.6,7544.375,bad deal
+11,20000.0," 4850 S Lake Park Ave #507-B, Chicago, IL 60615 ",2.0,1.0,1.1,160.375,19839.625,bad deal
+71,459000.0," 832 W Barry Ave #2, Chicago, IL 60657 ",2.0,2.0,1.1,433975.12,25024.875,bad deal
+556,649900.0," 1940 N Cleveland Ave APT 5, Chicago, IL 60614 ",2.0,2.0,1.8,623816.0,26084.0,bad deal
+379,325000.0," 33 E Cedar St UNIT 19AB, Chicago, IL 60611 ",3.0,1.0,1.0,298427.88,26572.125,bad deal
+69,489900.0," 6737 N Hermitage Ave, Chicago, IL 60626 ",2.0,2.0,1.205,462451.38,27448.625,bad deal
+377,345000.0," 5000 S East End Ave APT 17C, Chicago, IL 60615 ",3.0,1.0,1.04,309276.0,35724.0,bad deal
+210,510000.0," 1428 W Cortez St #1E, Chicago, IL 60642 ",2.0,2.0,1.2,461095.38,48904.625,bad deal
+32,27000.0," 4800 S Lake Park Ave APT 806, Chicago, IL 60615 ",2.0,1.0,1.0,-26959.625,53959.625,bad deal
+48,529000.0," 1511 N Paulina St #1R, Chicago, IL 60622 ",2.0,2.0,1.25,474655.38,54344.625,bad deal
+254,595000.0," 680 N Peoria St #D, Chicago, IL 60642 ",2.0,2.0,1.438,525641.1,69358.875,bad deal
+199,614900.0," 2133 N Campbell Ave #1B, Chicago, IL 60647 ",2.0,2.0,1.5,542455.6,72444.375,bad deal
+334,599000.0," 3646 S Emerald Ave, Chicago, IL 60609 ",2.0,2.0,1.438,525641.1,73358.875,bad deal
+368,559900.0," 17 N Loomis St APT 3C, Chicago, IL 60607 ",2.0,2.0,1.196,460010.5,99889.5,bad deal
+500,80000.0," 947 E Hyde Park Blvd #G, Chicago, IL 60615 ",2.0,1.0,1.0,-26959.625,106959.625,bad deal
+275,519000.0," 4604 N Oakview St, Chicago, IL 60656 ",2.0,2.0,1.0,406855.12,112144.875,bad deal
+238,659900.0," 4556 N Damen Ave, Chicago, IL 60625 ",2.0,2.0,1.5,542455.6,117444.375,bad deal
+374,650000.0," 2233 W Lyndale St #B, Chicago, IL 60647 ",2.0,2.0,1.438,525641.1,124358.875,bad deal
+450,104000.0," 5319 N Nagle Ave, Chicago, IL 60630 ",2.0,1.0,0.81,-78487.875,182487.875,bad deal
+358,725000.0," 448 N Carpenter St #D, Chicago, IL 60642 ",2.0,2.0,1.5,542455.6,182544.375,bad deal
+180,510000.0," 435 W Roscoe St, Chicago, IL 60657 ",3.0,1.0,1.0,298427.88,211572.125,bad deal
+140,515000.0," 816 N Wood St #2N, Chicago, IL 60622 ",3.0,1.0,1.0,298427.88,216572.125,bad deal
+468,260000.0," 10540 S Leavitt St, Chicago, IL 60643 ",2.0,1.0,1.25,40840.625,219159.375,bad deal
+51,229900.0," 8411 S Dorchester Ave, Chicago, IL 60619 ",2.0,1.0,1.1,160.375,229739.625,bad deal
+543,199900.0," 1542 N Rockwell St #G, Chicago, IL 60622 ",2.0,1.0,0.9,-54079.875,253979.875,bad deal
+233,789000.0," 1741 N Kedzie Ave, Chicago, IL 60647 ",2.0,2.0,1.45,528895.6,260104.375,bad deal
+471,249600.0," 21 W Goethe St APT 5F, Chicago, IL 60610 ",2.0,1.0,1.0,-26959.625,276559.625,bad deal
+72,299000.0," 1924 N Lotus Ave, Chicago, IL 60639 ",2.0,1.0,1.0,-26959.625,325959.625,bad deal
+555,249000.0," 867 W Cornelia Ave #2, Chicago, IL 60657 ",2.0,1.0,0.8,-81199.875,330199.875,bad deal
+363,2500000.0," 65 E Bellevue Pl, Chicago, IL 60611 ",4.0,3.0,3.445,2154531.5,345468.5,bad deal
+299,699900.0," 6709 N Bosworth Ave, Chicago, IL 60626 ",3.0,1.0,1.0,298427.88,401472.125,bad deal
+159,1255000.0," 3044 N Clifton Ave, Chicago, IL 60657 ",2.0,2.0,1.5,542455.6,712544.375,bad deal
+167,1549000.0," 4939 N Bell Ave, Chicago, IL 60625 ",3.0,2.0,1.335,823094.9,725905.125,bad deal
+297,1244900.0," 420 E North Water St, Chicago, IL 60611 ",3.0,1.0,1.04,309276.0,935624.0,bad deal
+400,4199999.0," 130 N Garland Ct APT 5702, Chicago, IL 60602 ",4.0,4.0,5.25,3077865.0,1122134.0,bad deal
+440,6280000.0," 2902 N Burling St, Chicago, IL 60657 ",6.0,8.0,1.05,4324853.5,1955146.5,bad deal
+383,4350000.0," 1928 N Cleveland Ave, Chicago, IL 60614 ",4.0,4.0,1.655,2102896.5,2247103.5,bad deal
+288,2800000.0," 4845 S Ellis Ave, Chicago, IL 60615 ",2.0,2.0,1.196,460010.5,2339989.5,bad deal
+510,7990000.0," 199 E Lake Shore Dr #10-11E, Chicago, IL 60611 ",4.0,7.0,9.672,5578560.0,2411440.0,bad deal
+230,4500000.0," 5026 S Greenwood Ave, Chicago, IL 60615 ",3.0,4.0,2.5,2006673.9,2493326.125,bad deal
+535,7999000.0," 1325 N Astor St #13, Chicago, IL 60610 ",6.0,6.0,7.9,5314952.5,2684047.5,bad deal
+326,3975000.0," 1622 N Wolcott Ave, Chicago, IL 60622 ",3.0,2.0,1.335,823094.9,3151905.125,bad deal
+2,7995000.0," 4130 N Greenview Ave, Chicago, IL 60613 ",7.0,8.0,1.1,4663801.5,3331198.5,bad deal
+407,6200000.0," 451 E Grand Ave APT 6011, Chicago, IL 60611 ",3.0,4.0,4.798,2629894.0,3570106.0,bad deal
+449,10500000.0," 1336 N State Pkwy, Chicago, IL 60610 ",5.0,9.0,9.0,6589330.0,3910670.0,bad deal
+79,4500000.0," 520 N Armour St, Chicago, IL 60642 ",2.0,2.0,0.99,404143.12,4095856.875,bad deal
+494,6750000.0," 2550 N Lakeview Ave UNIT S3802, Chicago, IL 60614 ",3.0,4.0,4.25,2481276.0,4268724.0,bad deal
+369,6550000.0," 451 E Grand Ave #5909, Chicago, IL 60611 ",2.0,2.0,1.2,461095.38,6088904.625,bad deal
+356,8000000.0," 159 E Walton St #33A, Chicago, IL 60611 ",4.0,2.0,1.908,1303881.1,6696118.875,bad deal
+441,7875000.0," 1449 N Astor St, Chicago, IL 60610 ",6.0,1.0,0.1,1030509.6,6844490.375,bad deal
+200,9900000.0," 159 E Walton Pl APT 31A, Chicago, IL 60611 ",3.0,3.0,1.248,1233315.1,8666684.875,bad deal
+42,13500000.0," 840 N Lake Shore Dr APT 2601, Chicago, IL 60611 ",7.0,8.0,1.1,4663801.5,8836198.5,bad deal
+0,17000000.0," 1500 N Lake Shore Dr, Chicago, IL 60610 ",6.0,7.0,8.0,5775887.5,11224112.5,bad deal
+46,13500000.0," 15 W Burton Pl, Chicago, IL 60610 ",2.0,2.0,1.163,451060.88,13048939.125,bad deal
+5,18750000.0," 3 W Burton Pl, Chicago, IL 60610 ",6.0,1.0,3.2,1871233.4,16878766.625,bad deal
