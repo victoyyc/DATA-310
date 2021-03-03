@@ -33,9 +33,10 @@ The model captures the first 14 pages of the research result of Chicago housing 
 
 ### 3. An analysis of your model output:
 
-The Mean Squared Error of the Top10 Under-estimations is:  83759434270787.19. The Mean Squared Error of the Top10 Over-estimations is:  5453262586140.667. The Mean Squared Error of the Top10 accurate estimations is:  103158038.2795139. The most accurate 10 predictions are ranked 188-197(46-49th percentile) out of 405 data, therefore, the model has a slight tendency to underestimation.
+The Mean Squared Error of the Top10 Under-estimations is:  83759434270787.19. The Mean Squared Error of the Top10 Over-estimations is:  5453262586140.667. The Mean Squared Error of the Top10 accurate estimations is:  103158038.2795139. The most accurate 10 predictions are ranked 188-197(46-49th percentile) out of 405 data, therefore, the model has a slight tendency to underestimation. The most overly estimated housings are the ones with more rooms, more sqaurefootage, and therefore priced higher. This is could partially be accounted by that the larger data skewed the prediction to a larger extent, or it could be that they indeed seriously over-priced.
 
-The  Mean Squared Error of the predictions is 2907264118198.8569, and after standard scaling, the MSE becomes 3393509392384.0000. Therefore standard scaling may not have improved the model. This perhaps is due to the fact that the input data does not vary much in value range (after the square footage is divided by a thousand). 
+The  Mean Squared Error of the predictions is 2907264118198.8569, and after standard scaling, the MSE becomes 3393509392384.0000. Therefore standard scaling may not have improved the model. This perhaps is due to the fact that the input data does not vary much in value range (after the square footage is divided by a thousand).
+
 
 ### 4. An analysis of the output that assesses and ranks all homes from best to worst deal:
 
@@ -44,7 +45,7 @@ The model defines good deals as the housing whose actual price is lower than the
 
 ### 5. Include at least three plots that support your project report:
 #### A plot to describe the source data would make sense: 
-The descriptive data are as shown above.
+![The relationship between listing prices of the housing and their number of bedrooms, bathsrooms and sqaure footage.](descriptive.png)
   
 #### A plot to describe the model output:
 The scatter plot of actual prices (x-axis) vs. predicted priced (y-axis):
