@@ -13,7 +13,7 @@
  
  [Feb.24 Informal Response](/DATA-310/feb24_informal_response)
  
- [MAr.10 Informal Response](/DATA-310/mar10_informal_response)
+ [Mar.10 Informal Response](/DATA-310/mar10_informal_response)
 
 
 
