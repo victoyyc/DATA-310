@@ -22,3 +22,5 @@
 [Mini Project 1](/DATA-310/mini_project_1)
 
 [Project 1](/DATA-310/project_1)
+
+[Project 2](/DATA-310/project_2)
