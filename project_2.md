@@ -64,15 +64,55 @@ As shown in the graph, the performance of the random forest model is quite simil
 
 ## Model 3
 Using the python script provided, train a logistic regression model using the tensorflow estimator API and your DHS data, again with wealth as the target. Apply the linear classifier to the feature columns and determine the accuracy, AUC and other evaluative metrics towards each of the different wealth outcomes. Then continue with your linear classifier adding the derived feature columns you have selected in order to extend capturing combinations of correlations (instead of learning on single model weights for each outcome). 
-
-logistic regression result = {'accuracy': 0.6977188, 'average_loss': 0.5830904, 'loss': 0.5830221, 'global_step': 11310}
+ 
+| metric | score |
+|----------|-------------|
+|accuracy             |     0.905019|
+|accuracy_baseline     |    0.905019|
+|auc                    |   0.708009|
+|auc_precision_recall    |  0.291073|
+|average_loss            |  0.290561|
+|label/mean               | 0.094981|
+|loss                     | 0.290561|
+|precision                | 0.000000|
+|prediction/mean          | 0.102530|
+|recall                   | 0.000000|
+|global_step            | 100.000000|
 
 #### 1. produce your ROC curves and interpret the results.
 The ROC curve plot: ![](linear_roc.png)
 
-As shown in the ROC curve plot, the model has a performance slightly better than random prediction as the curve is slightly higher than a straight diagnal line. 
+As shown in the ROC curve plot, the model has a decent performance. It is at least better than random prediction as the curve is above a straight diagnal line. Moreover, as the metrics show, the AUC of this model is 0.708. Judging from the AUC, model 3 has a better performance than Model 1 and 2.
 
 ## Model 4
-Using the python script provided, train a gradient boosting model using decision trees with the tensorflow estimator. Provide evaluative metrics including a measure of accuracy and AUC. Produce the predicted probabilities plot as well as the ROC curve for each wealth outcome and interpret these results.
+Using the python script provided, train a gradient boosting model using decision trees with the tensorflow estimator. 
 
-### Analyze all four models. According to the evaluation metrics, which model produced the best results? Were there any discrepancies among the five wealth outcomes from your DHS survey dataset?
+#### 1. Provide evaluative metrics including a measure of accuracy and AUC. 
+
+| metric | score |
+|----------|-------------|
+|accuracy             |     0.909996|
+|accuracy_baseline     |    0.907341|
+|auc                    |   0.737803|
+|auc_precision_recall    |  0.292773|
+|average_loss             | 0.271809|
+|label/mean             |   0.092659|
+|loss              |        0.271809|
+|precision          |       0.611111|
+|prediction/mean     |      0.092366|
+|recall               |     0.078782|
+|global_step           |  100.000000|
+
+#### 2. Produce the predicted probabilities plot as well as the ROC curve and interpret these results.
+![](tree_roc.png)
+![](tree_pp.png)
+
+As shown in the ROC plot, the model has a pretty good predictive power. It also has an AUC value of 0.738, the highest among all four models. The predicted probabilities, as shown in the graph, are clustered around the lower range, from 0 to 0.5, which suggests that the model may have a tendency to over-predict lower values and to under-predict higher values.
+
+## Analyze all four models. 
+
+#### 1. According to the evaluation metrics, which model produced the best results? 
+According to the AUC values of each model, model 4 produced the best results with an AUC value of 0.738. 
+
+#### 2. Were there any discrepancies among the five wealth outcomes from your DHS survey dataset?
+Judging from the ROC curves of Model 1 and 2, the second and the third stratas of the wealth outcomes are the hardest to predict, while both models perform the best for the fifth strata. Overall, the models perform better for those who are extremely wealthy or poor, while its performance drops significantly for those in the middle. 
