@@ -43,6 +43,7 @@ Above is the ROC plot of the best-performing penalized logistic regression model
 Using the R script provided, set up your random forest model and produce the AUC - ROC values for the randomly selected predictors, and the minimal node size, again with wealth as the target.
 #### 1. How did your random forest model fare when compared to the penalized logistic regression?
 The best-performing random forest models are the following:
+
 ```  mtry min_n .metric .estimator  mean     n std_err .config              
   <int> <int> <chr>   <chr>      <dbl> <int>   <dbl> <chr>                
 1     2    34 roc_auc hand_till  0.624     1      NA Preprocessor1_Model21
