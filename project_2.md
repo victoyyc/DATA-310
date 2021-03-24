@@ -1,4 +1,4 @@
-# Project 1
+# Project 2
 ### Victoria Yuanyuan Chang
 
 Project 2, due Wednesday, March 24th by midnight
