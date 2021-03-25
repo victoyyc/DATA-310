@@ -93,14 +93,23 @@ The evaluative metrics of the model on each wealth outcome category:
 
 #### 1. produce your ROC curves and interpret the results.
 Wealth 1: 
+
 ![](linear_roc.png)
+
 Wealth 2: 
+
 ![](line2.png)
+
 Wealth 3:
+
 ![](line3.png)
+
 Wealth 4:
+
 ![](line4.png)
+
 Wealth 5:
+
 ![](line5.png)
 
 Similar to model 1 and model 2, model 3 is better at predicting wealth outcomes at extreme than in the middle. Moreover, as the metrics show, on average the AUC of this model is higher than that of model 1 and 2. Judging by the AUC values, then, model 3 has a better performance than Model 1 and 2.
@@ -128,18 +137,27 @@ Using the python script provided, train a gradient boosting model using decision
 
 #### 2. Produce the predicted probabilities plot as well as the ROC curve and interpret these results.
 wealth 1:
+
 ![](pp1.png)
 ![](boost1.png)
+
 wealth 2:
+
 ![](pp2.png)
 ![](boost2.png)
+
 wealth 3:
+
 ![](pp3.png)
 ![](boost3.png)
+
 wealth 4:
+
 ![](pp4.png)
 ![](boost4.png)
+
 wealth 5:
+
 ![](tree_roc.png)
 ![](tree_pp.png)
 
