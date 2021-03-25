@@ -35,7 +35,7 @@ The AUC-ROC to penalty curve is shown as below:
 
 #### 2. Are you able to use the feature selection penalty to tune your hyperparameter and remove any potentially irrelevant predictors? Provide justification for your selected penalty value? 
 
-I selected a penality value of 0.00108, as it is the penalty value f model11, the best performing model. With this penalty value the model seems to have the largest AUC, so it should be able to remove some irrelevant predictors. 
+I selected a penality value of 0.00108, as it is the penalty value f model11, the best performing model. With this penalty value the model seems to have larger AUC, so it should be able to remove some irrelevant predictors. 
 
 #### 3. Finally, provide your ROC plots and interpret them. How effective is your penalized logistic regression model at predicting each of the five wealth outcomes.
 ![](lr_auc.png)
@@ -56,7 +56,7 @@ The best-performing random forest models are the following:
 4     2    24 roc_auc hand_till  0.623     1      NA Preprocessor1_Model12
 5     2    20 roc_auc hand_till  0.623     1      NA Preprocessor1_Model14
 ```
-The best performing randome forest has an AUC vlaue of 0.624, while that of the best logistic regression model is 0.616. Comparing the AUC-ROC values of the random forest models to that of the logistic regression, the performance of the random forest is better han the penalized logistic regression. Comparing the AUC plots, on the other hands, shows than the random forest model and the logitsic regression model have very similar performance.
+The best performing random forest has an AUC vlaue of 0.624, while that of the best logistic regression model is 0.616. Comparing the AUC-ROC values of the random forest models to that of the logistic regression, the performance of the random forest is better han the penalized logistic regression. Comparing the AUC plots, on the other hands, the random forest model and the logitsic regression model seem to have very similar performance.
 
 The comparison of the AUC-ROC curves between the random forest models and the logistic regression models are shown as the following:
 ![](rf_lr_auc.png)
@@ -72,6 +72,8 @@ As shown in the graph, the performance of the random forest model is quite simil
 
 ## Model 3
 Using the python script provided, train a logistic regression model using the tensorflow estimator API and your DHS data, again with wealth as the target. Apply the linear classifier to the feature columns and determine the accuracy, AUC and other evaluative metrics towards each of the different wealth outcomes. Then continue with your linear classifier adding the derived feature columns you have selected in order to extend capturing combinations of correlations (instead of learning on single model weights for each outcome). 
+
+The evaluative metrics of the model on each wealth outcome category:
  
 | metric | wealth 1 | wealth 2 | wealth 3 | wealth 4| wealth 5|
 |----------|--------|----------|----------|---------|---------|
@@ -101,7 +103,7 @@ Wealth 4:
 Wealth 5:
 ![](line5.png)
 
-Similar to model 1 and model 2, model 3 better at predicting wealth outcomes at extreme than in the middle. Moreover, as the metrics show, on average the AUC of this model is higher than that of model 1 and 2. Judging by the AUC values, model 3 has a better performance than Model 1 and 2.
+Similar to model 1 and model 2, model 3 is better at predicting wealth outcomes at extreme than in the middle. Moreover, as the metrics show, on average the AUC of this model is higher than that of model 1 and 2. Judging by the AUC values, then, model 3 has a better performance than Model 1 and 2.
 
 ## Model 4
 Using the python script provided, train a gradient boosting model using decision trees with the tensorflow estimator. 
@@ -141,7 +143,7 @@ wealth 5:
 ![](tree_roc.png)
 ![](tree_pp.png)
 
-Similar to the previous models, the model is better with the extreme wealth outcomes than with those in the middle. Model 4 is best at predicting the 5th wealth outcome, with an AUC of 0.738, the highest of all models. It has a moderate predictive power over the 1st and the 4th wealth outcomes, and its performance is worst in predicting the 2nd and the 3rd outcomes. Although it is not as good as predicting wealth outcomes in the middle, it has a decent AUC for wealth 2 and 3, a slight improvement comparing to the other models. Overall, I think this model has good predictive power. In line with the AUC values, the predicted probabilities of the 1st and the 5th wealth outcomes are higher than that of the 2nd and the 3rd.
+Similar to the previous models, model 4 is better with the extreme wealth outcomes than with those in the middle. Model 4 is best at predicting the 5th wealth outcome, with an AUC of 0.738, the highest of all models. It has a moderate predictive power over the 1st and the 4th wealth outcomes, and its performance is worst in predicting the 2nd and the 3rd outcomes. Although it is not as good as predicting wealth outcomes in the middle, it has a decent AUC for wealth 2 and 3, a slight improvement comparing to the other models. Overall, I think this model has good predictive power. In line with the AUC values, the predicted probabilities of the 1st and the 5th wealth outcomes are higher than that of the 2nd and the 3rd as the model is more capable of predicting outcomes at both ends.
 
 ## Analyze all four models. 
 
@@ -149,4 +151,4 @@ Similar to the previous models, the model is better with the extreme wealth outc
 According to the AUC values of each model, model 4 seems to have produced the best results.
 
 #### 2. Were there any discrepancies among the five wealth outcomes from your DHS survey dataset?
-All of the models have shown similar trends in predicting different stratas of wealth outcomes. The second and the third stratas of the wealth outcomes are the hardest to predict, while all models perform the best for the fifth and the first strata. Overall, the models perform better for those who are extremely wealthy or poor, while its performance drops significantly for those in the middle. 
+All of the models have shown similar trends in predicting different stratas of wealth outcomes. The second and the third stratas of the wealth outcomes are the hardest to predict, while all models perform the best for the fifth strata. Overall, the models perform better for those who are extremely wealthy or poor, while its performance drops significantly for those in the middle. 
