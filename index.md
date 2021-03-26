@@ -15,7 +15,9 @@
  
  [Mar.10 Informal Response](/DATA-310/mar10_informal_response)
 
-[Reflection on Mar.24 Slice of Data Science](/DATA-310/mar26)
+ [Reflection on Mar.24 Slice of Data Science](/DATA-310/mar26)
+
+ [Mar.22 Informal Response](/DATA-310/mar22_informal_response)
 
 
 
