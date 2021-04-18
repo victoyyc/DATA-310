@@ -1,4 +1,4 @@
-# Project 2
+# Project 3
 ### Victoria Yuanyuan Chang
 
 Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country.
@@ -25,6 +25,7 @@ Model validation: MSE vs. MAE
 
 MSE:
 ![](lr_mse.png)
+
 MAE:
 ![](lr_mae.png)
 
