@@ -34,15 +34,19 @@ Calculated using CellStats, MAE = 1852354 and MSE = 15902959.
 ### 2. Random Forest
 
 The relatve importance of each factor:
+
 ![](rf_importance.png)
 
 Population sums: 
+
 ![](rf_popsum.png)
 
 Diff Sums:
+
 ![](rf_diffsum.png)
 
 3D plot of diff sums:
+
 ![](rf_3d.png)
 
 As shown in the plot, the model tends to underpredict the population, except for the capital area. This result is similar to that of the linear regression.
