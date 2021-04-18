@@ -50,9 +50,11 @@ As shown in the plot, the model tends to underpredict the population, except for
 Model validation: MSE vs. MAE
 
 MSE:
+
 ![](rf_mse.png)
 
 MAE:
+
 ![](rf_mae.png)
 
 Calculated using CellStats, MAE = 1906480 and MSE = 15953265.
