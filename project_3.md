@@ -8,6 +8,15 @@ The country I chose for this project is Liberia.
 
 ### 1. Linear Regression Model:
 
+Linear regression results:
+
+![](lr_results.png)
+
+The relatve importance of each factor:
+
+![](lr_importance.png)
+
+
 Population sums: 
 ![](lr_popsum.png)
 Diff Sums:
