@@ -28,3 +28,5 @@
 [Project 1](/DATA-310/project_1)
 
 [Project 2](/DATA-310/project_2)
+
+[Project 3](/DATA-310/project_3)
