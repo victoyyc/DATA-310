@@ -27,7 +27,7 @@ The plotted predicted population (upper image) as compared to the actual distrib
 Comparing the image of the predicted population and the actual population, the model seems to have more errors predicting the population of the areas around the capital. The plots of difference between the predicted value and the actual value (diff_sums = pred-actual) provides us a closer look.
 Diff Sums:
 
-![](lr_diffsum.png)
+![](lr_diff_sum.png)
 
 3D plot of diff sums:
 
@@ -90,7 +90,7 @@ MAE:
 Calculated using CellStats, MAE = 1906480 and MSE = 15953265.
 
 ## 3. Comparison of the two models:
-![](lr_diffsum.png)![](rf_diffsum.png)
+![](lr_diff_sum.png)![](rf_diffsum.png)
 
 Above is the comparison between the difference of predicted value and actual value of the population by the linear regression model (upper) and the random forest model (lower). Judging from the resulting plots, the two models do not differ much in terms of accuracy and tendency in making errors, although a closer look may reveal that overall, the linear regression's nationwide underprediction is weaker than that of the random forest.
 
