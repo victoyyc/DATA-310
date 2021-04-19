@@ -18,18 +18,19 @@ The relatve importance of each factor in predicting the population:
 
 ![](lr_importance.png)
 
-The plotted predicted population (left) as compared to the actual distribution of population (right):
+The plotted predicted population (upper image) as compared to the actual distribution of population (lower image):
 ![](lr_popsum.png) ![](actual_pop.png)
 
 #### Model Validation
-Comparing the image of the predicted population and the actual population, the model seems to 
+Comparing the image of the predicted population and the actual population, the model seems to have more errors predicting the population of the areas around the capital. The plots of difference between the predicted value and the actual value (diff_sums = pred-actual) provides us a closer look.
 Diff Sums:
 ![](lr_diffsum.png)
 3D plot of diff sums:
 ![](lr_3d.png)
 
-As shown in the plot, the model tends to underpredict the population, except for the capital area. This is likely due to the relatively larger number of populations in the capital area.
-MSE vs. MAE
+As shown in the plots above, while the population of the whole country is slightly underpredicted, the error of prediction in the capital area is more prominent, with some regions being overpredicted and others largely underpredicted. This clustering of error could be due to the relatively larger number of population in the capital area. As the base number goes up, difference in prediction also becomes larger. The larger contrast of population density of different area within this relative small greographical region (which means they differ little in the data used to predict population) may also account for reduced accuracy of the model in this area.
+
+There are two approaches to validate the model: Meam Squared Error (MSE) and Mean Absolute Error (MAE). Both are plotted below:
 
 MSE:
 ![](lr_mse.png)
@@ -37,27 +38,33 @@ MSE:
 MAE:
 ![](lr_mae.png)
 
-Calculated using CellStats, MAE = 1852354 and MSE = 15902959.
+Calculated using CellStats, MAE = 1852354 and MSE = 15902959. In line with the analysis of diff_sums, the errors cluster around the capital area.
 
 ### 2. Random Forest
+Similar to the linear regression model, 13 variables were used to predict the population of each region. The actual population data comes from the Worldpop data of Liberia's population distribution in 2019. Data were splitted into training and testing sets and a random foress model is trained and used to predict the population distribution.
 
-The relatve importance of each factor:
+The relatve importance of each factor in predicting the population distribution:
 
 ![](rf_importance.png)
 
-Population sums: 
+The plot of error over number of trees in the model:
+![](rf_results.png)
+As shown in the plot, increasing the number of trees does not significantly improve the accuracy of the model after less than 50 tress.
 
-![](rf_popsum.png)
+The plotted predicted population (upper image) as compared to the actual distribution of population (lower image):
+![](rf_popsum.png) ![](actual_pop.png)
 
-Diff Sums:
+The precdiction made by the random forest model seems to be fairly similar to that of the linear regression, both haviing larger errors around the capital region.
+
+#### Model Validation 
 
 ![](rf_diffsum.png)
 
-3D plot of diff sums:
+3D plot of diff sums (angled to show better details):
 
 ![](rf_3d.png)
 
-As shown in the plot, the model tends to underpredict the population, except for the capital area. This result is similar to that of the linear regression.
+As shown in the plot, the model tends to underpredict the population overall, while having mixed errors in the capital area. This result is similar to that of the linear regression.
 
 Model validation: MSE vs. MAE
 
@@ -72,4 +79,8 @@ MAE:
 Calculated using CellStats, MAE = 1906480 and MSE = 15953265.
 
 ## 3. Comparison of the two models:
-Judging from the resulting plots, the two models do not differ much in terms of predictive power and accuracy. Comparing the MSE and MAE of the two models, on the other hand, the linear regression model out-perform the random forest model.
+![](lr_diffsum.png)![](rf_diffsum.png)
+Above is the comparison between the difference of predicted value and actual value of the population by the linear regression model (upper) and the random forest model (lower). Judging from the resulting plots, the two models do not differ much in terms of accuracy and tendency in making errors, although a closer look may reveal that overall, the linear regression's nationwide underprediction is weaker than that of the random forest.
+
+Comparing the MSE and MAE of the two models, on the other hand, the linear regression model out-perform the random forest model.
+
