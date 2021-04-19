@@ -68,6 +68,8 @@ The precdiction made by the random forest model seems to be fairly similar to th
 
 #### Model Validation 
 
+The plot of diff_sums (predicted value - actual values)
+
 ![](rf_diffsum.png)
 
 3D plot of diff sums (angled to show better details):
