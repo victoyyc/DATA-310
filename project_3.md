@@ -94,5 +94,5 @@ Calculated using CellStats, MAE = 1906480 and MSE = 15953265.
 
 Above is the comparison between the difference of predicted value and actual value of the population by the linear regression model (upper) and the random forest model (lower). Judging from the resulting plots, the two models do not differ much in terms of accuracy and tendency in making errors, although a closer look may reveal that overall, the linear regression's nationwide underprediction is weaker than that of the random forest.
 
-Comparing the MSE and MAE of the two models, on the other hand, the linear regression model out-performs the random forest model.
+Comparing the MSE and MAE of the two models, on the other hand, the linear regression model out-performs the random forest model on both parameters.
 
