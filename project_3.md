@@ -4,29 +4,32 @@
 Using two machine learning methods predict population values at 100 x 100 meter resolution throughout your selected country.
 Validate the two models using different methods presented in this class, write a report assessing the two approaches and which of the two models was more accurate. Be sure to account for spatial variation throughout your selected location and provide substantive explanations for why those variations occurred.
 
-The country I chose for this project is Liberia.
+The country I chose for this project is Liberia. Below is a map of the country. As shown in the map, Monrovia is the capital of Liberia. The capital area is the most densely populated region of the country.
+![](map.png)
 
 ### 1. Linear Regression Model:
+13 variables were used to predict the population of each region. The actual population data comes from the Worldpop data of Liberia's population distribution in 2019. Data were splitted into training and testing sets and a linear regression model is trained and used to predict the population distribution.
 
-Linear regression results:
+Linear regression results are shown below:
 
 ![](lr_results.png)
 
-The relatve importance of each factor:
+The relatve importance of each factor in predicting the population:
 
 ![](lr_importance.png)
 
+The plotted predicted population (left) as compared to the actual distribution of population (right):
+![](lr_popsum.png) ![](actual_pop.png)
 
-Population sums: 
-![](lr_popsum.png)
+#### Model Validation
+Comparing the image of the predicted population and the actual population, the model seems to 
 Diff Sums:
 ![](lr_diffsum.png)
 3D plot of diff sums:
 ![](lr_3d.png)
 
 As shown in the plot, the model tends to underpredict the population, except for the capital area. This is likely due to the relatively larger number of populations in the capital area.
-
-Model validation: MSE vs. MAE
+MSE vs. MAE
 
 MSE:
 ![](lr_mse.png)
