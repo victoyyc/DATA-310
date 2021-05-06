@@ -43,8 +43,7 @@ Since the aim of this project is to label images, I believe the method that pres
 ![image](https://user-images.githubusercontent.com/57189964/117377291-eed6ff80-aea0-11eb-95ed-fcbea16ed6ad.png)
 
 
-I then turned the images into pixel arrays and did data augmentation using ImageDataGenerator from tensorflow. 
-
+I then turned the images into pixel arrays and did data augmentation using ImageDataGenerator from tensorflow.
 ```
 train_datagen = ImageDataGenerator(
     rotation_range=30,
@@ -95,3 +94,4 @@ history=model.fit_generator(training_set,
 ## 4. Assessment of Model Performance
 The performance and accuracy of the model is shown in the graph below (epoch=30).
 ![image](https://user-images.githubusercontent.com/57189964/117377980-7a9d5b80-aea2-11eb-8399-e9feac8b22b6.png)
+Although CNN and image classfication is a well-studied field, few literature is available in this particular narrow topic I am interested in. However, as the original data is obtained from a Kaggle programming competition, I find that the highest rated submisson achived an accuracy of 0.98 using pretrained keras models (that are too complicated for me to understand or draw lessons from). Comparing to this top-rated model, my model still needs much improvement.
