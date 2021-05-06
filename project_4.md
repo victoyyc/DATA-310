@@ -38,4 +38,60 @@ Index(['afghan_hound', 'basenji', 'bernese_mountain_dog', 'entlebucher',
 The 10 selected breeds, as shown above, are actually commonly seen pet breeds, therefore, I think the model would have some practical value if it can predict these categories accurately.
 
 ## 3. Specification for the applied machine learning method
-I think the most promising method for this project is CNN. I first pre-processed the 
+Since the aim of this project is to label images, I believe the method that presented the most promise in providing a solution is CNN. I first encoded the labeling into indicator variables using df.get_dummies(the resulting dataframe is shown below). 
+
+![image](https://user-images.githubusercontent.com/57189964/117377291-eed6ff80-aea0-11eb-95ed-fcbea16ed6ad.png)
+
+
+I then turned the images into pixel arrays and did data augmentation using ImageDataGenerator from tensorflow. 
+
+```
+train_datagen = ImageDataGenerator(
+    rotation_range=30,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    rescale=1./255,
+    shear_range=0.2,
+    zoom_range=0.2,
+    horizontal_flip=True,
+    fill_mode='nearest')
+
+test_datagen=ImageDataGenerator(rescale=1./255)
+```
+
+Finally, after splitting the training and testing data using tts, I built the CNN model using keras. 
+
+Model summary:
+![image](https://user-images.githubusercontent.com/57189964/117377477-5bea9500-aea1-11eb-851d-195a52e178e8.png)
+
+Model architecture, layers, functional arguments and specifications for compiling and fitting are shown as the code below:
+```
+model=Sequential()
+
+model.add(ZeroPadding2D((1,1),input_shape=(299,299,3)))
+model.add(Conv2D(32,kernel_size=(3,3),activation='relu'))
+model.add(ZeroPadding2D(padding=(1,1)))
+model.add(Conv2D(32,kernel_size=(3,3),activation='relu'))
+model.add(MaxPooling2D(pool_size=(2,2),strides=(2,2)))
+
+model.add(Flatten())
+model.add(Dense(64,activation='relu'))
+model.add(Dropout(0.2))
+
+model.add(Dense(10,activation='softmax'))
+
+model.compile(loss=categorical_crossentropy,optimizer='adam',metrics=['accuracy'])
+model.summary()
+
+epochs=30
+history=model.fit_generator(training_set,
+                        steps_per_epoch = 16,
+                        validation_data = testing_set,
+                        validation_steps = 4,
+                        epochs = epochs,
+                        verbose = 1)
+```
+
+## 4. Assessment of Model Performance
+The performance and accuracy of the model is shown in the graph below (epoch=30).
+![image](https://user-images.githubusercontent.com/57189964/117377980-7a9d5b80-aea2-11eb-8399-e9feac8b22b6.png)
