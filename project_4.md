@@ -13,10 +13,12 @@ Sample Images:
 ![image](https://user-images.githubusercontent.com/57189964/117375171-7cfcb700-ae9c-11eb-94af-4a8e5a4304e1.png)
 ![image](https://user-images.githubusercontent.com/57189964/117375185-825a0180-ae9c-11eb-8351-69f971567181.png)
 ![image](https://user-images.githubusercontent.com/57189964/117375271-a0bffd00-ae9c-11eb-93c5-b17eb5b93eb0.png)
+
 ![image](https://user-images.githubusercontent.com/57189964/117375259-9c93df80-ae9c-11eb-8049-2549b2ba15a3.png)
 ![image](https://user-images.githubusercontent.com/57189964/117375373-d95fd680-ae9c-11eb-91f4-590294e8a1d1.png)
 
 Sample .csv file (label names):
+
 |id	|breed|
 |---|----|
 |000bec180eb18c7604dcecc8fe0dba07|	boston_bull
